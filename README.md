@@ -1,2 +1,2 @@
 # A-Study-on-Industry-Education-Integration-Enterprises-In-Guangxi-Province
-# Using a survey database, applied descriptive statistical methods,multiple linear regression, and random forest regression to assess how enterprise attributes influence integration performance score; complemented quantitative findings with textual analysis of corporate reports.
+# Using a survey database,  descriptive statistical methods,multiple linear regression, and random forest regression are applied to assess how enterprise attributes influence integration performance score.Also, textual analysis of corporate reports is used for the complementary of quantitative findings.(sections of the codes were generated with the assistance of ai tools)
